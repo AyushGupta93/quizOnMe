@@ -75,3 +75,4 @@ console.log("Thanks for playing...");
 welcome();
 game();
 showScores();
+
